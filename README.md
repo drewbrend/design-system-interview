@@ -1,10 +1,4 @@
-<h1>React Latest (Webpack | TypeScript)</h1>
-
-<p>
-  This is project generated to serve as a reproduction starter for Storybook.
-</p>
-
-<h3>Testing instructions</h3>
+<h1>Text Editor interview question</h1>
 
 <p>Install dependencies:</p>
 <pre>
