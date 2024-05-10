@@ -1,11 +1,18 @@
-<h1>Design System interview question</h1>
+# Design System interview question
 
-<p>Install dependencies:</p>
-<pre>
-  yarn
-</pre>
+### Setup instructions
 
-<p>Run Storybook:</p>
-<pre>
-  yarn storybook
-</pre>
+#### Install dependencies:
+
+```yarn```
+
+#### Run Storybook:
+
+```yarn storybook```
+
+#### Interview process
+
+- The interview will be done via screenshare
+- You can use any IDE or tools you like
+- Your interviewer(s) will ask you to make a series of changes and feature additions to components in this repo
+- You are welcome to ask any clarifying questions or use any internet resources
