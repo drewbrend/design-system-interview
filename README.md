@@ -1,4 +1,4 @@
-<h1>Text Editor interview question</h1>
+<h1>Design System interview question</h1>
 
 <p>Install dependencies:</p>
 <pre>
