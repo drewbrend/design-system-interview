@@ -1,5 +1,9 @@
 # Design System interview question
 
+NOTE: This question has been moved to coderpad here: https://app.coderpad.io/dashboard/questions/user/294012
+
+This repo will no longer be updated
+
 ### Setup instructions
 
 #### Install dependencies:
